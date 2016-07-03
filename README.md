@@ -1,5 +1,5 @@
-| Name |  Icon | Description  |  First App Store Publish Date | Source Code |
-| ---- | ----- | ------------ |  ---------------------------- | ----------- |
+| Name |  Icon | Description  | Publish Date | Source Code |
+| ---- | ----- | ------------ |  ------------| ----------- |
 | [Paste][1] | <img src="http://dasmersingh.com/img/paste.jpg" width=100> |  Paste is an emoji search app to quickly search for and copy emoji and paste them anywhere else. | 07 January 2016 | [Link][1a] |
 | [RemindMe][2] | <img src="http://dasmersingh.com/img/rm.jpg" width=100> | Have you ever thought to text someone for a birthday, special event, or anything else on a later date, but then forget to do it? Schedule to send a text or email at some time in the future. | 10 January 2014 | [Link][2a] |
 | [SpinsFM][3] | <img src="http://dasmersingh.com/img/sfm.jpg" width=100> | SPINS.fm is reinventing the radio request line using social media. The app helps artists and radio stations engage fans by making it fun and easy to request songs on local radio – still the most proven way to drive demand for shows and increase sales. | 06 January 2014 | N/A |
