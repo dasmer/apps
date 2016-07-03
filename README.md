@@ -14,18 +14,21 @@
 
 | Name |  Icon | Description  | Dates Contributed | Owner |
 | ---- | ----- | ------------ |  ------------| ----------- |
-| [Venmo][9] | <img src="https://static-s.aa-cdn.net/img/ios/351727428/b42b65aed677ff91dd8e493ae8523985" width=400> | SPINS.fm is reinventing the radio request line using social media. The app helps artists and radio stations engage fans by making it fun and easy to request songs on local radio – still the most proven way to drive demand for shows and increase sales. | December 2013 | [SpinsFM][3b] |
-| [SpinsFM][3] | <img src="https://static-s.aa-cdn.net/img/ios/788706511/889809f5bcd173f9589c8eec7911d38c" width=200> | SPINS.fm is reinventing the radio request line using social media. The app helps artists and radio stations engage fans by making it fun and easy to request songs on local radio – still the most proven way to drive demand for shows and increase sales. | December 2013 | [SpinsFM][3b] |
+| [Venmo][9] | <img src="https://static-s.aa-cdn.net/img/ios/351727428/b42b65aed677ff91dd8e493ae8523985" width=200> | Venmo is a free digital wallet that lets you make and share payments with friends. You can easily split the bill, cab fare, or much more | February 2014 - December 2015 | [PayPal Inc.][9b] |
+| [SpinsFM][3] | <img src="https://static-s.aa-cdn.net/img/ios/788706511/889809f5bcd173f9589c8eec7911d38c" width=200> | SPINS.fm is reinventing the radio request line using social media. The app helps artists and radio stations engage fans by making it fun and easy to request songs on local radio – still the most proven way to drive demand for shows and increase sales | December 2013 | [SpinsFM][3b] |
 
 [1]: http://dasmercodes.tumblr.com/post/136823078917/stop-swiping-just-paste
 [1a]: https://github.com/dasmer/Paste
 [2]: http://dasmersingh.com/apps/remindme/
 [2a]: https://github.com/dasmer/RemindMe
 [3]: http://www.spins.fm/ios
-[3b]: http://www.spins.fm/
+[3b]: https://www.spins.fm/
 [4]: https://itunes.apple.com/us/app/whosup/id767987314
 [5]: https://itunes.apple.com/us/app/quickcontact-qrcode-scanner/id735849910
 [5a]: https://github.com/dasmer/QuickContact
 [6]: http://itunes.apple.com/us/app/babystamp/id721125816
 [7]: http://itunes.apple.com/us/app/instastamp/id704108902
 [8]: http://dasmersingh.com/apps/findgurdwara/index.html
+[9]: http://venmo.com
+[9b]: https://www.paypal.com/
+
