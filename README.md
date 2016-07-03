@@ -14,8 +14,8 @@
 
 | Name |  Icon | Description  | Dates Contributed | Owner |
 | ---- | ----- | ------------ |  ------------| ----------- |
-| [Venmo][9] | <img src="https://mi621.files.wordpress.com/2015/03/logo-mark.png" width=100> | SPINS.fm is reinventing the radio request line using social media. The app helps artists and radio stations engage fans by making it fun and easy to request songs on local radio – still the most proven way to drive demand for shows and increase sales. | December 2013 | [SpinsFM][3b] |
-| [SpinsFM][3] | <img src="http://dasmersingh.com/img/sfm.jpg" width=400> | SPINS.fm is reinventing the radio request line using social media. The app helps artists and radio stations engage fans by making it fun and easy to request songs on local radio – still the most proven way to drive demand for shows and increase sales. | December 2013 | [SpinsFM][3b] |
+| [Venmo][9] | <img src="https://static-s.aa-cdn.net/img/ios/351727428/b42b65aed677ff91dd8e493ae8523985" width=200> | SPINS.fm is reinventing the radio request line using social media. The app helps artists and radio stations engage fans by making it fun and easy to request songs on local radio – still the most proven way to drive demand for shows and increase sales. | December 2013 | [SpinsFM][3b] |
+| [SpinsFM][3] | <img src="https://static-s.aa-cdn.net/img/ios/788706511/889809f5bcd173f9589c8eec7911d38c" width=200> | SPINS.fm is reinventing the radio request line using social media. The app helps artists and radio stations engage fans by making it fun and easy to request songs on local radio – still the most proven way to drive demand for shows and increase sales. | December 2013 | [SpinsFM][3b] |
 
 [1]: http://dasmercodes.tumblr.com/post/136823078917/stop-swiping-just-paste
 [1a]: https://github.com/dasmer/Paste
