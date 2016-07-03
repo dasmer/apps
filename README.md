@@ -1,3 +1,5 @@
+A list of all the apps I've ever written, both personal as well as projects I contributed a majority (or all) of the code to.
+
 ## Apps Owned
 
 | Name |  Icon | Description  | Publish Date | Source Code |
@@ -17,7 +19,7 @@
 | [Venmo][9] | <img src="https://static-s.aa-cdn.net/img/ios/351727428/b42b65aed677ff91dd8e493ae8523985" width=200> | Venmo is a free digital wallet that lets you make and share payments with friends. You can easily split the bill, cab fare, or much more | February 2014 - December 2015 | [PayPal Inc.][9b] |
 | [My App Profile][11] | <img src="https://pbs.twimg.com/profile_images/549683509904683009/koqFsJpx_400x400.jpeg" width=200> | Find out what your apps say about you and discover your next favorite app | December 2014 | [Chris Maddern][11b] |
 | [SPINS.fm][3] | <img src="https://static-s.aa-cdn.net/img/ios/788706511/889809f5bcd173f9589c8eec7911d38c" width=200> | SPINS.fm is reinventing the radio request line using social media. The app helps artists and radio stations engage fans by making it fun and easy to request songs on local radio – still the most proven way to drive demand for shows and increase sales | December 2013 | [David Baker][3b] |
-| [Chatwala][10] | <img src="https://pbs.twimg.com/profile_images/422935236570148864/tOkCYcDl_400x400.png" width=200> | Record and send video messages to your friends and family, then watch their reactions when they reply! | August 2013 - September 2013 | [Tej Bhatia][10b] |
+| [Chatwala][10] Prototype | <img src="https://pbs.twimg.com/profile_images/422935236570148864/tOkCYcDl_400x400.png" width=200> | Record and send video messages to your friends and family, then watch their reactions when they reply! | August 2013 - September 2013 | [Tej Bhatia][10b] |
 
 [1]: http://dasmercodes.tumblr.com/post/136823078917/stop-swiping-just-paste
 [1a]: https://github.com/dasmer/Paste
