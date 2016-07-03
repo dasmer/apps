@@ -1,4 +1,4 @@
-All of the apps I've ever written, both personal as well as projects where I contributed a majority or all of the code for. 📱🖊:octocat:
+All of the apps I've ever written, both personal projects as well as projects where I contributed a majority or all of the code for. 📱🖊:octocat:
 
 ## Apps Owned
 
